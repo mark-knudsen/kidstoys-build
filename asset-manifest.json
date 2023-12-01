@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.14bd79ea.css",
+    "main.css": "/static/css/main.7efe02b7.css",
     "main.js": "/static/js/main.6a78a52b.js",
     "static/media/kidstoys-logo.png": "/static/media/kidstoys-logo.8364d7514384697fc257.png",
     "index.html": "/index.html",
-    "main.14bd79ea.css.map": "/static/css/main.14bd79ea.css.map",
+    "main.7efe02b7.css.map": "/static/css/main.7efe02b7.css.map",
     "main.6a78a52b.js.map": "/static/js/main.6a78a52b.js.map"
   },
   "entrypoints": [
-    "static/css/main.14bd79ea.css",
+    "static/css/main.7efe02b7.css",
     "static/js/main.6a78a52b.js"
   ]
 }
